@@ -1,0 +1,9 @@
+{
+ "data_dir": "OLDP",
+ "out_dir": "OLDP",
+ "top": 50000,
+ "min_desc": 50,
+ "max_desc": 999,
+ "min_popularity": 0,
+ "dump": "ol_dump_2026-07-31.txt.gz"
+}

@@ -1,0 +1,60 @@
+[server]
+enableStaticServing = true
+
+[[theme.fontFaces]]
+family = "Petrona"
+url = "app/static/fonts/Petrona-VariableFont_wght.ttf"
+weight = "100 900"     # declares the variable font's weight range
+
+[[theme.fontFaces]]
+family = "Lexend"
+url = "app/static/fonts/Lexend-VariableFont_wght.ttf"
+weight = "100 900"     # declares the variable font's weight range
+
+[[theme.fontFaces]]
+family = "OpenSans"
+url = "OpenSans-VariableFont_wdth.ttf"
+weight = "100 900"     # declares the variable font's weight range
+
+
+[theme]
+font = "OpenSans"
+headingFont = "Petrona"
+codeFont = "OpenSans"
+baseRadius = "medium"
+buttonRadius = "medium"
+linkUnderline = true
+
+[theme.light]
+primaryColor = "#2F4C3E"              # headlineColor
+backgroundColor = "#F3F3EE"           # siteBgColor
+secondaryBackgroundColor = "#FFFFFF" # sidebarBgColor
+textColor = "#17261E"
+linkColor = "#4A7862"                 # bodyLinkColor
+borderColor = "#DDDDCF"
+codeTextColor = "#1F3329"             # sidebarTextColor
+codeBackgroundColor = "#FFFFFF"
+
+[theme.light.sidebar]
+primaryColor = "#517563"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F3F3EE"
+textColor = "#1F3329"
+linkColor = "#557967"
+
+[theme.dark]
+primaryColor = "#7FBC9C"              # buttonHoverBgColor
+backgroundColor = "#1A1F1C"
+secondaryBackgroundColor = "#272A29" # buttonBgColor
+textColor = "#E8ECE9"
+linkColor = "#7FB89A"
+borderColor = "#313533"
+codeTextColor = "#D6E0D9"
+codeBackgroundColor = "#272A29"
+
+[theme.dark.sidebar]
+primaryColor = "#5f8d75"
+backgroundColor = "#12100A"
+secondaryBackgroundColor = "#272A29"
+textColor = "#D6E0D9"
+linkColor = "#6FAE8D"

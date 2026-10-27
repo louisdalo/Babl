@@ -1,0 +1,11 @@
+.venv/
+utils/__pycache__/
+
+# Large files
+OLDP/ol_dump_2026-07-31.txt.gz
+OLDP/ol_dump_ratings_2026-07-31.txt.gz
+OLDP/*.duckdb
+
+# Personal data
+my_infos/
+TODO
