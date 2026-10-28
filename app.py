@@ -7,12 +7,12 @@ import streamlit as st
 ##### PARAMETERS ##### ---------------------------------------------------------
 st.set_page_config(
     page_title="Babl", 
-    page_icon="./static/images/logo.png", 
+    page_icon="./static/images/favicon.png", 
     layout="wide",
     initial_sidebar_state="expanded")
 st.logo(
-    "./static/images/logo.png",
-    icon_image="./static/images/logo.png"
+    "./static/images/logo_sidebar.png",
+    icon_image="./static/images/logo_sidebar.png"
 )
 
 

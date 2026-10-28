@@ -1,0 +1,3410 @@
+{
+ "vocab_hash": "94abd4eb8dcc",
+ "tags": {
+  "15ème siècle": {
+   "subject": "Fourteenth century",
+   "score": 0.902,
+   "source": "embedding"
+  },
+  "18 ans": {
+   "subject": "Young Adult",
+   "score": 0.844,
+   "source": "embedding"
+  },
+  "19ème siècle": {
+   "subject": "19th century",
+   "score": 0.996,
+   "source": "embedding"
+  },
+  "20ème siècle": {
+   "subject": "20th century",
+   "score": 0.995,
+   "source": "embedding"
+  },
+  "21ème siècle": {
+   "subject": "21st Century",
+   "score": 0.993,
+   "source": "embedding"
+  },
+  "Années 1990": {
+   "subject": "Aunts",
+   "score": 0.69,
+   "source": "embedding"
+  },
+  "Arts et beaux livres": {
+   "subject": "Artists' books",
+   "score": 0.83,
+   "source": "embedding"
+  },
+  "Californie (États-Unis)": {
+   "subject": "California",
+   "score": 0.916,
+   "source": "embedding"
+  },
+  "Compétitions": {
+   "subject": "Competitions",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "Contes et légendes d'Europe": {
+   "subject": "Europe, history",
+   "score": 0.869,
+   "source": "embedding"
+  },
+  "Coopération": {
+   "subject": "Cooperation",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "Dons d'organes": {
+   "subject": "Anatomy",
+   "score": 0.683,
+   "source": "embedding"
+  },
+  "Enquêtes criminelles": {
+   "subject": "Crime and criminals",
+   "score": 0.882,
+   "source": "embedding"
+  },
+  "Exorcisme": {
+   "subject": "Extortion, fiction",
+   "score": 0.66,
+   "source": "embedding"
+  },
+  "Fantastique et Terreur": {
+   "subject": "Curiosities and wonders",
+   "score": 0.695,
+   "source": "embedding"
+  },
+  "Frères et soeurs": {
+   "subject": "Brothers and sisters",
+   "score": 0.848,
+   "source": "embedding"
+  },
+  "Gardes du corps": {
+   "subject": "Heirlooms",
+   "score": 0.752,
+   "source": "embedding"
+  },
+  "Gourous": {
+   "subject": "Heirlooms",
+   "score": 0.59,
+   "source": "embedding"
+  },
+  "Incendies": {
+   "subject": "Fires",
+   "score": 0.976,
+   "source": "embedding"
+  },
+  "Juges d'instruction": {
+   "subject": "Judges",
+   "score": 0.832,
+   "source": "embedding"
+  },
+  "Loto": {
+   "subject": "Lotteries",
+   "score": 0.753,
+   "source": "embedding"
+  },
+  "Menaces": {
+   "subject": "Protection",
+   "score": 0.731,
+   "source": "embedding"
+  },
+  "Militants politiques": {
+   "subject": "Political activists",
+   "score": 0.782,
+   "source": "embedding"
+  },
+  "Montréal (Canada)": {
+   "subject": "Montreal (quebec), fiction",
+   "score": 0.8,
+   "source": "embedding"
+  },
+  "Mythologie celtique": {
+   "subject": "Celtic Mythology",
+   "score": 0.944,
+   "source": "embedding"
+  },
+  "Normandie (France)": {
+   "subject": "France, history",
+   "score": 0.784,
+   "source": "embedding"
+  },
+  "Paris (France)": {
+   "subject": "Paris (france), history",
+   "score": 0.915,
+   "source": "embedding"
+  },
+  "Pennsylvanie (États-Unis)": {
+   "subject": "Pennsylvania, fiction",
+   "score": 0.726,
+   "source": "embedding"
+  },
+  "Romans et nouvelles de genre": {
+   "subject": "Romanies",
+   "score": 0.865,
+   "source": "embedding"
+  },
+  "Réserves indiennes": {
+   "subject": "Indian reservations",
+   "score": 0.721,
+   "source": "embedding"
+  },
+  "Services de presse": {
+   "subject": "Press coverage",
+   "score": 0.86,
+   "source": "embedding"
+  },
+  "Sélection": {
+   "subject": "Prose",
+   "score": 0.876,
+   "source": "embedding"
+  },
+  "Troubadours": {
+   "subject": "Widowers",
+   "score": 0.859,
+   "source": "embedding"
+  },
+  "accident": {
+   "subject": "Accidents",
+   "score": 0.936,
+   "source": "embedding"
+  },
+  "acteur": {
+   "subject": "Actors",
+   "score": 0.903,
+   "source": "embedding"
+  },
+  "action": {
+   "subject": "Acting",
+   "score": 0.799,
+   "source": "embedding"
+  },
+  "actualités et reportages": {
+   "subject": "Reporters and reporting",
+   "score": 0.847,
+   "source": "embedding"
+  },
+  "adaptation": {
+   "subject": "Psychological Adaptation",
+   "score": 0.782,
+   "source": "embedding"
+  },
+  "adaptation d'un roman": {
+   "subject": "Novels",
+   "score": 0.829,
+   "source": "embedding"
+  },
+  "adaptation littéraire": {
+   "subject": "Literary",
+   "score": 0.747,
+   "source": "embedding"
+  },
+  "adolescence": {
+   "subject": "Youth",
+   "score": 0.953,
+   "source": "embedding"
+  },
+  "adoption": {
+   "subject": "Adoptive parents",
+   "score": 0.904,
+   "source": "embedding"
+  },
+  "adulte": {
+   "subject": "Adult",
+   "score": 0.989,
+   "source": "embedding"
+  },
+  "affaires et enquêtes": {
+   "subject": "Business",
+   "score": 0.736,
+   "source": "embedding"
+  },
+  "afghanistan": {
+   "subject": "Afghan War, 2001",
+   "score": 0.84,
+   "source": "embedding"
+  },
+  "afrique": {
+   "subject": "Nieces",
+   "score": 0.781,
+   "source": "embedding"
+  },
+  "agression sexuelle": {
+   "subject": "Sexual abuse",
+   "score": 0.907,
+   "source": "embedding"
+  },
+  "alcool": {
+   "subject": "Alcoholism",
+   "score": 0.933,
+   "source": "embedding"
+  },
+  "alcoolisme": {
+   "subject": "Alcoholism",
+   "score": 0.988,
+   "source": "embedding"
+  },
+  "allemand": {
+   "subject": "Germany",
+   "score": 0.934,
+   "source": "embedding"
+  },
+  "alliance": {
+   "subject": "Cooperation",
+   "score": 0.728,
+   "source": "embedding"
+  },
+  "amitié": {
+   "subject": "Friendship",
+   "score": 0.995,
+   "source": "embedding"
+  },
+  "amour": {
+   "subject": "Love",
+   "score": 0.917,
+   "source": "embedding"
+  },
+  "amours impossibles": {
+   "subject": "Unrequited love",
+   "score": 0.779,
+   "source": "embedding"
+  },
+  "américain": {
+   "subject": "American",
+   "score": 0.955,
+   "source": "embedding"
+  },
+  "amérique": {
+   "subject": "Heirlooms",
+   "score": 0.903,
+   "source": "embedding"
+  },
+  "anglais": {
+   "subject": "English",
+   "score": 0.875,
+   "source": "embedding"
+  },
+  "angleterre": {
+   "subject": "Lizards",
+   "score": 0.709,
+   "source": "embedding"
+  },
+  "angoisse": {
+   "subject": "Heirlooms",
+   "score": 0.65,
+   "source": "embedding"
+  },
+  "angola": {
+   "subject": "Africa, history",
+   "score": 0.651,
+   "source": "embedding"
+  },
+  "angouleme": {
+   "subject": "Heirlooms",
+   "score": 0.72,
+   "source": "embedding"
+  },
+  "animaux": {
+   "subject": "Animals",
+   "score": 0.93,
+   "source": "embedding"
+  },
+  "anniversaire": {
+   "subject": "Birthdays",
+   "score": 0.941,
+   "source": "embedding"
+  },
+  "années 20": {
+   "subject": "Twentieth century",
+   "score": 0.928,
+   "source": "embedding"
+  },
+  "années 30": {
+   "subject": "Nineteen thirties",
+   "score": 0.854,
+   "source": "embedding"
+  },
+  "années 40": {
+   "subject": "Twentieth century",
+   "score": 0.87,
+   "source": "embedding"
+  },
+  "années 60": {
+   "subject": "Nineteen sixties",
+   "score": 0.887,
+   "source": "embedding"
+  },
+  "anthologies": {
+   "subject": "Idioms",
+   "score": 0.808,
+   "source": "embedding"
+  },
+  "anti-impérialisme": {
+   "subject": "Antislavery movements",
+   "score": 0.702,
+   "source": "embedding"
+  },
+  "anticipation": {
+   "subject": "Imagination",
+   "score": 0.669,
+   "source": "embedding"
+  },
+  "antiquité": {
+   "subject": "Historical",
+   "score": 0.854,
+   "source": "embedding"
+  },
+  "araignées": {
+   "subject": "Spiders",
+   "score": 0.971,
+   "source": "embedding"
+  },
+  "architecture": {
+   "subject": "Architecture",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "archéologie": {
+   "subject": "Archeology",
+   "score": 0.986,
+   "source": "embedding"
+  },
+  "armes": {
+   "subject": "Weapons",
+   "score": 0.85,
+   "source": "embedding"
+  },
+  "arnaque": {
+   "subject": "Nieces",
+   "score": 0.896,
+   "source": "embedding"
+  },
+  "assassinats": {
+   "subject": "Murder",
+   "score": 0.959,
+   "source": "embedding"
+  },
+  "astronautique": {
+   "subject": "Astronautics",
+   "score": 0.936,
+   "source": "embedding"
+  },
+  "attentats": {
+   "subject": "Bombings",
+   "score": 0.879,
+   "source": "embedding"
+  },
+  "audiobook": {
+   "subject": "Audiobooks",
+   "score": 0.968,
+   "source": "embedding"
+  },
+  "australie": {
+   "subject": "Australians",
+   "score": 0.963,
+   "source": "embedding"
+  },
+  "auteur français": {
+   "subject": "French literature",
+   "score": 0.883,
+   "source": "embedding"
+  },
+  "auteure sfff": {
+   "subject": "author",
+   "score": 0.797,
+   "source": "embedding"
+  },
+  "autochtones": {
+   "subject": "Aunts",
+   "score": 0.796,
+   "source": "embedding"
+  },
+  "automne": {
+   "subject": "Autumn",
+   "score": 0.977,
+   "source": "embedding"
+  },
+  "autrice": {
+   "subject": "Anthology",
+   "score": 0.841,
+   "source": "embedding"
+  },
+  "aventure": {
+   "subject": "Adventure",
+   "score": 0.96,
+   "source": "embedding"
+  },
+  "bagne": {
+   "subject": "Internats",
+   "score": 0.735,
+   "source": "embedding"
+  },
+  "bande dessinée": {
+   "subject": "Cartoons and comics",
+   "score": 0.859,
+   "source": "embedding"
+  },
+  "bande dessinée de genre": {
+   "subject": "Cartoons and comics",
+   "score": 0.866,
+   "source": "embedding"
+  },
+  "bande dessinée française": {
+   "subject": "Parody",
+   "score": 0.794,
+   "source": "embedding"
+  },
+  "banlieue": {
+   "subject": "broughams",
+   "score": 0.784,
+   "source": "embedding"
+  },
+  "bataille": {
+   "subject": "Battles",
+   "score": 0.907,
+   "source": "embedding"
+  },
+  "batman": {
+   "subject": "Baseball",
+   "score": 0.627,
+   "source": "embedding"
+  },
+  "bd ados-adultes": {
+   "subject": "Young adults",
+   "score": 0.744,
+   "source": "embedding"
+  },
+  "bd adulte": {
+   "subject": "Adult",
+   "score": 0.81,
+   "source": "embedding"
+  },
+  "bd classiques": {
+   "subject": "Heirlooms",
+   "score": 0.621,
+   "source": "embedding"
+  },
+  "bd fantastique": {
+   "subject": "Genius",
+   "score": 0.555,
+   "source": "embedding"
+  },
+  "bd jeunesse": {
+   "subject": "Youth",
+   "score": 0.933,
+   "source": "embedding"
+  },
+  "belge": {
+   "subject": "European",
+   "score": 0.82,
+   "source": "embedding"
+  },
+  "belgique": {
+   "subject": "Belgians",
+   "score": 0.927,
+   "source": "embedding"
+  },
+  "biographie": {
+   "subject": "Biography",
+   "score": 0.979,
+   "source": "embedding"
+  },
+  "bloc de l'est": {
+   "subject": "Eastern",
+   "score": 0.828,
+   "source": "embedding"
+  },
+  "body horror": {
+   "subject": "Body horror",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "bourgogne": {
+   "subject": "broughams",
+   "score": 0.786,
+   "source": "embedding"
+  },
+  "boxe": {
+   "subject": "Boxes",
+   "score": 0.923,
+   "source": "embedding"
+  },
+  "bretagne": {
+   "subject": "broughams",
+   "score": 0.918,
+   "source": "embedding"
+  },
+  "bruxelles": {
+   "subject": "broughams",
+   "score": 0.909,
+   "source": "embedding"
+  },
+  "brésil": {
+   "subject": "Brazil, fiction",
+   "score": 0.83,
+   "source": "embedding"
+  },
+  "cartographe": {
+   "subject": "Cartography",
+   "score": 0.916,
+   "source": "embedding"
+  },
+  "caryl férey": {
+   "subject": "Selkies",
+   "score": 0.67,
+   "source": "embedding"
+  },
+  "casino": {
+   "subject": "Gambling",
+   "score": 0.847,
+   "source": "embedding"
+  },
+  "cauchemars": {
+   "subject": "Occultists",
+   "score": 0.746,
+   "source": "embedding"
+  },
+  "censure": {
+   "subject": "Censorship",
+   "score": 0.993,
+   "source": "embedding"
+  },
+  "chantage": {
+   "subject": "blackmail",
+   "score": 0.794,
+   "source": "embedding"
+  },
+  "chantiers": {
+   "subject": "Construction",
+   "score": 0.854,
+   "source": "embedding"
+  },
+  "chasse": {
+   "subject": "Hunting",
+   "score": 0.942,
+   "source": "embedding"
+  },
+  "chasse au trésor": {
+   "subject": "Treasure hunting",
+   "score": 0.932,
+   "source": "embedding"
+  },
+  "chasse aux sorcières": {
+   "subject": "Witch hunting",
+   "score": 0.87,
+   "source": "embedding"
+  },
+  "chasse à l'homme": {
+   "subject": "Hunting",
+   "score": 0.764,
+   "source": "embedding"
+  },
+  "chevaliers": {
+   "subject": "knights",
+   "score": 0.727,
+   "source": "embedding"
+  },
+  "chine": {
+   "subject": "Earth",
+   "score": 0.851,
+   "source": "embedding"
+  },
+  "cinema": {
+   "subject": "Movies",
+   "score": 0.925,
+   "source": "embedding"
+  },
+  "city": {
+   "subject": "Cities",
+   "score": 0.958,
+   "source": "embedding"
+  },
+  "civilisation celtique": {
+   "subject": "Mythology, Celtic",
+   "score": 0.855,
+   "source": "embedding"
+  },
+  "classique": {
+   "subject": "Heirlooms",
+   "score": 0.871,
+   "source": "embedding"
+  },
+  "clochette": {
+   "subject": "broughams",
+   "score": 0.857,
+   "source": "embedding"
+  },
+  "clockpunk": {
+   "subject": "Clocks and watches, fiction",
+   "score": 0.751,
+   "source": "embedding"
+  },
+  "coach de vie": {
+   "subject": "Coaching (Athletics)",
+   "score": 0.711,
+   "source": "embedding"
+  },
+  "colocation": {
+   "subject": "coronets",
+   "score": 0.725,
+   "source": "embedding"
+  },
+  "combat": {
+   "subject": "Battles",
+   "score": 0.873,
+   "source": "embedding"
+  },
+  "comics": {
+   "subject": "Comics",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "complots": {
+   "subject": "Stories, plots",
+   "score": 0.689,
+   "source": "embedding"
+  },
+  "comédie": {
+   "subject": "Comedy",
+   "score": 0.956,
+   "source": "embedding"
+  },
+  "comédie romantique": {
+   "subject": "Romantic Comedy",
+   "score": 0.952,
+   "source": "embedding"
+  },
+  "confiance": {
+   "subject": "Trust",
+   "score": 0.955,
+   "source": "embedding"
+  },
+  "contemporain": {
+   "subject": "Contemporary",
+   "score": 0.91,
+   "source": "embedding"
+  },
+  "contes": {
+   "subject": "Nieces",
+   "score": 0.74,
+   "source": "embedding"
+  },
+  "contes et legendes": {
+   "subject": "Legends and stories",
+   "score": 0.797,
+   "source": "embedding"
+  },
+  "conteuses": {
+   "subject": "Heirlooms",
+   "score": 0.854,
+   "source": "embedding"
+  },
+  "correspondance": {
+   "subject": "Correspondence",
+   "score": 0.854,
+   "source": "embedding"
+  },
+  "corruption": {
+   "subject": "Political corruption",
+   "score": 0.925,
+   "source": "embedding"
+  },
+  "corée": {
+   "subject": "Korean",
+   "score": 0.867,
+   "source": "embedding"
+  },
+  "cosy fantasy": {
+   "subject": "Fantasy",
+   "score": 0.815,
+   "source": "embedding"
+  },
+  "cosy mystery": {
+   "subject": "Mystery",
+   "score": 0.784,
+   "source": "embedding"
+  },
+  "couleur": {
+   "subject": "Colors",
+   "score": 0.98,
+   "source": "embedding"
+  },
+  "couple": {
+   "subject": "Husband and wife",
+   "score": 0.767,
+   "source": "embedding"
+  },
+  "crime": {
+   "subject": "Crimes against",
+   "score": 0.914,
+   "source": "embedding"
+  },
+  "criminalité": {
+   "subject": "Criminals",
+   "score": 0.923,
+   "source": "embedding"
+  },
+  "créatures": {
+   "subject": "Animals",
+   "score": 0.838,
+   "source": "embedding"
+  },
+  "créatures fantastiques": {
+   "subject": "Mythical Creatures",
+   "score": 0.839,
+   "source": "embedding"
+  },
+  "cuisine": {
+   "subject": "Cookery",
+   "score": 0.902,
+   "source": "embedding"
+  },
+  "culpabilité": {
+   "subject": "Guilt",
+   "score": 0.985,
+   "source": "embedding"
+  },
+  "cyberpunk": {
+   "subject": "Cybernetics",
+   "score": 0.895,
+   "source": "embedding"
+  },
+  "cycle": {
+   "subject": "Cycling",
+   "score": 0.734,
+   "source": "embedding"
+  },
+  "célébrité": {
+   "subject": "Celebrities",
+   "score": 0.91,
+   "source": "embedding"
+  },
+  "danger": {
+   "subject": "Risk",
+   "score": 0.872,
+   "source": "embedding"
+  },
+  "dark": {
+   "subject": "Dark",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "dark academia": {
+   "subject": "Dark Academia",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "dark fantasy": {
+   "subject": "Dark Fantasy",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "dark romance": {
+   "subject": "dark romance",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "david gemmell": {
+   "subject": "Heirlooms",
+   "score": 0.63,
+   "source": "embedding"
+  },
+  "deuil": {
+   "subject": "Defectors",
+   "score": 0.65,
+   "source": "embedding"
+  },
+  "developpement personnel": {
+   "subject": "Apprentices",
+   "score": 0.672,
+   "source": "embedding"
+  },
+  "diable": {
+   "subject": "Nieces",
+   "score": 0.8,
+   "source": "embedding"
+  },
+  "dieux": {
+   "subject": "Christian",
+   "score": 0.815,
+   "source": "embedding"
+  },
+  "différence": {
+   "subject": "Individual differences",
+   "score": 0.839,
+   "source": "embedding"
+  },
+  "disparition": {
+   "subject": "Separation",
+   "score": 0.694,
+   "source": "embedding"
+  },
+  "document": {
+   "subject": "Paperback",
+   "score": 0.839,
+   "source": "embedding"
+  },
+  "document historique": {
+   "subject": "Historiography",
+   "score": 0.904,
+   "source": "embedding"
+  },
+  "documentaire": {
+   "subject": "Documentary films",
+   "score": 0.916,
+   "source": "embedding"
+  },
+  "domination": {
+   "subject": "Rulers",
+   "score": 0.779,
+   "source": "embedding"
+  },
+  "douleur": {
+   "subject": "Pain",
+   "score": 0.984,
+   "source": "embedding"
+  },
+  "dragon": {
+   "subject": "Unicorns",
+   "score": 0.705,
+   "source": "embedding"
+  },
+  "drame": {
+   "subject": "Tragedy",
+   "score": 0.802,
+   "source": "embedding"
+  },
+  "drame familial": {
+   "subject": "Family crises",
+   "score": 0.851,
+   "source": "embedding"
+  },
+  "drame psychologique": {
+   "subject": "Psychological Thriller",
+   "score": 0.892,
+   "source": "embedding"
+  },
+  "drogue": {
+   "subject": "Drugs",
+   "score": 0.924,
+   "source": "embedding"
+  },
+  "droit": {
+   "subject": "Earth",
+   "score": 0.839,
+   "source": "embedding"
+  },
+  "dystopie": {
+   "subject": "Dystopian",
+   "score": 0.961,
+   "source": "embedding"
+  },
+  "décalé": {
+   "subject": "Heirlooms",
+   "score": 0.838,
+   "source": "embedding"
+  },
+  "décolonialisme": {
+   "subject": "Feudalism",
+   "score": 0.706,
+   "source": "embedding"
+  },
+  "déesses": {
+   "subject": "Gods and goddesses",
+   "score": 0.879,
+   "source": "embedding"
+  },
+  "dépression": {
+   "subject": "Depression",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "désir d'enfant": {
+   "subject": "Children's",
+   "score": 0.763,
+   "source": "embedding"
+  },
+  "détective": {
+   "subject": "Detective",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "egypte": {
+   "subject": "Egypt, history",
+   "score": 0.918,
+   "source": "embedding"
+  },
+  "emprise": {
+   "subject": "Prose",
+   "score": 0.844,
+   "source": "embedding"
+  },
+  "enemies to lovers": {
+   "subject": "enemies to lovers",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "enfance": {
+   "subject": "Childhood",
+   "score": 0.969,
+   "source": "embedding"
+  },
+  "enfants": {
+   "subject": "Children",
+   "score": 0.983,
+   "source": "embedding"
+  },
+  "enlèvement": {
+   "subject": "Abduction",
+   "score": 0.922,
+   "source": "embedding"
+  },
+  "ennemi": {
+   "subject": "Enemies",
+   "score": 0.956,
+   "source": "embedding"
+  },
+  "enquête": {
+   "subject": "Investigation",
+   "score": 0.963,
+   "source": "embedding"
+  },
+  "enquête policière": {
+   "subject": "Police",
+   "score": 0.896,
+   "source": "embedding"
+  },
+  "enquêtes": {
+   "subject": "Investigations",
+   "score": 0.934,
+   "source": "embedding"
+  },
+  "enquêtrice": {
+   "subject": "Internats",
+   "score": 0.871,
+   "source": "embedding"
+  },
+  "entreprise": {
+   "subject": "Corporations",
+   "score": 0.86,
+   "source": "embedding"
+  },
+  "environnement": {
+   "subject": "Environment",
+   "score": 0.917,
+   "source": "embedding"
+  },
+  "epee": {
+   "subject": "Idioms",
+   "score": 0.698,
+   "source": "embedding"
+  },
+  "epistolaire": {
+   "subject": "Epistolary fiction",
+   "score": 0.711,
+   "source": "embedding"
+  },
+  "epouvante": {
+   "subject": "Misers",
+   "score": 0.789,
+   "source": "embedding"
+  },
+  "espace": {
+   "subject": "Space",
+   "score": 0.937,
+   "source": "embedding"
+  },
+  "espagne": {
+   "subject": "Spain",
+   "score": 0.82,
+   "source": "embedding"
+  },
+  "espagnol": {
+   "subject": "Spanish",
+   "score": 0.979,
+   "source": "embedding"
+  },
+  "espion": {
+   "subject": "Spies",
+   "score": 0.933,
+   "source": "embedding"
+  },
+  "espionnage": {
+   "subject": "Spies",
+   "score": 0.913,
+   "source": "embedding"
+  },
+  "espoir": {
+   "subject": "Hope",
+   "score": 0.989,
+   "source": "embedding"
+  },
+  "esprit": {
+   "subject": "Psychics",
+   "score": 0.81,
+   "source": "embedding"
+  },
+  "essai": {
+   "subject": "Internats",
+   "score": 0.763,
+   "source": "embedding"
+  },
+  "europe de l'est": {
+   "subject": "Continental European",
+   "score": 0.838,
+   "source": "embedding"
+  },
+  "ex-policier": {
+   "subject": "Ex-police officers",
+   "score": 0.941,
+   "source": "embedding"
+  },
+  "exil": {
+   "subject": "Exiles",
+   "score": 0.955,
+   "source": "embedding"
+  },
+  "exploration spatiale": {
+   "subject": "Exploration of outer space",
+   "score": 0.877,
+   "source": "embedding"
+  },
+  "expérience": {
+   "subject": "New Experience",
+   "score": 0.815,
+   "source": "embedding"
+  },
+  "expérimentation": {
+   "subject": "Experiments",
+   "score": 0.925,
+   "source": "embedding"
+  },
+  "extra-terrestres": {
+   "subject": "Extraterrestrial beings",
+   "score": 0.905,
+   "source": "embedding"
+  },
+  "fait vécu": {
+   "subject": "Internats",
+   "score": 0.803,
+   "source": "embedding"
+  },
+  "faits divers": {
+   "subject": "Idioms",
+   "score": 0.755,
+   "source": "embedding"
+  },
+  "famille": {
+   "subject": "Family",
+   "score": 0.988,
+   "source": "embedding"
+  },
+  "familles rivales": {
+   "subject": "Families",
+   "score": 0.821,
+   "source": "embedding"
+  },
+  "fantaisie": {
+   "subject": "Parody",
+   "score": 0.861,
+   "source": "embedding"
+  },
+  "fantastique": {
+   "subject": "Genius",
+   "score": 0.744,
+   "source": "embedding"
+  },
+  "fantasy": {
+   "subject": "Fantasy",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "fantasy historique": {
+   "subject": "Historical Fiction",
+   "score": 0.851,
+   "source": "embedding"
+  },
+  "fantasy humoristique": {
+   "subject": "Humorous fiction",
+   "score": 0.851,
+   "source": "embedding"
+  },
+  "fantasy young adult": {
+   "subject": "Young Adult Fantasy",
+   "score": 0.968,
+   "source": "embedding"
+  },
+  "fantasy épique": {
+   "subject": "Fantasy - Epic",
+   "score": 0.937,
+   "source": "embedding"
+  },
+  "fantômes": {
+   "subject": "Ghosts",
+   "score": 0.983,
+   "source": "embedding"
+  },
+  "fascination": {
+   "subject": "Curiosity",
+   "score": 0.804,
+   "source": "embedding"
+  },
+  "female rage": {
+   "subject": "Abused women",
+   "score": 0.632,
+   "source": "embedding"
+  },
+  "femme détective": {
+   "subject": "Women detectives",
+   "score": 0.923,
+   "source": "embedding"
+  },
+  "femmes": {
+   "subject": "Women",
+   "score": 0.985,
+   "source": "embedding"
+  },
+  "femmes battues": {
+   "subject": "Women murderers",
+   "score": 0.745,
+   "source": "embedding"
+  },
+  "ferme": {
+   "subject": "busts",
+   "score": 0.714,
+   "source": "embedding"
+  },
+  "fiction": {
+   "subject": "Nonfiction",
+   "score": 0.92,
+   "source": "embedding"
+  },
+  "filiation": {
+   "subject": "Internats",
+   "score": 0.688,
+   "source": "embedding"
+  },
+  "finlande": {
+   "subject": "Finnish fiction",
+   "score": 0.811,
+   "source": "embedding"
+  },
+  "flers": {
+   "subject": "Selkies",
+   "score": 0.826,
+   "source": "embedding"
+  },
+  "foix": {
+   "subject": "berths",
+   "score": 0.523,
+   "source": "embedding"
+  },
+  "folie": {
+   "subject": "busts",
+   "score": 0.83,
+   "source": "embedding"
+  },
+  "folklore": {
+   "subject": "Folklore & Mythology",
+   "score": 0.921,
+   "source": "embedding"
+  },
+  "forêts": {
+   "subject": "Forests",
+   "score": 0.935,
+   "source": "embedding"
+  },
+  "found family": {
+   "subject": "Family",
+   "score": 0.789,
+   "source": "embedding"
+  },
+  "france": {
+   "subject": "French",
+   "score": 0.958,
+   "source": "embedding"
+  },
+  "franco": {
+   "subject": "French",
+   "score": 0.835,
+   "source": "embedding"
+  },
+  "franquisme": {
+   "subject": "French",
+   "score": 0.728,
+   "source": "embedding"
+  },
+  "français": {
+   "subject": "French",
+   "score": 0.974,
+   "source": "embedding"
+  },
+  "fratrie": {
+   "subject": "busts",
+   "score": 0.801,
+   "source": "embedding"
+  },
+  "frisson": {
+   "subject": "Selkies",
+   "score": 0.692,
+   "source": "embedding"
+  },
+  "fuite": {
+   "subject": "Ponds",
+   "score": 0.771,
+   "source": "embedding"
+  },
+  "furyo": {
+   "subject": "Selkies",
+   "score": 0.711,
+   "source": "embedding"
+  },
+  "fées": {
+   "subject": "Selkies",
+   "score": 0.912,
+   "source": "embedding"
+  },
+  "féminicide": {
+   "subject": "Femininity",
+   "score": 0.731,
+   "source": "embedding"
+  },
+  "féminisme": {
+   "subject": "Feminists",
+   "score": 0.964,
+   "source": "embedding"
+  },
+  "féministe": {
+   "subject": "Feminists",
+   "score": 0.979,
+   "source": "embedding"
+  },
+  "féministes": {
+   "subject": "Feminists",
+   "score": 0.983,
+   "source": "embedding"
+  },
+  "féminité": {
+   "subject": "Femininity",
+   "score": 0.976,
+   "source": "embedding"
+  },
+  "gabrielle": {
+   "subject": "Selkies",
+   "score": 0.739,
+   "source": "embedding"
+  },
+  "genre": {
+   "subject": "Arts",
+   "score": 0.73,
+   "source": "embedding"
+  },
+  "globe-trotter": {
+   "subject": "Voyages around the world",
+   "score": 0.615,
+   "source": "embedding"
+  },
+  "gore": {
+   "subject": "Higher",
+   "score": 0.757,
+   "source": "embedding"
+  },
+  "gothique": {
+   "subject": "Gothic",
+   "score": 0.845,
+   "source": "embedding"
+  },
+  "grandes affaires criminelles": {
+   "subject": "Crime and criminals",
+   "score": 0.902,
+   "source": "embedding"
+  },
+  "graphiques": {
+   "subject": "Charts, diagrams",
+   "score": 0.816,
+   "source": "embedding"
+  },
+  "grenouille": {
+   "subject": "Grail",
+   "score": 0.771,
+   "source": "embedding"
+  },
+  "grimdark": {
+   "subject": "broughams",
+   "score": 0.732,
+   "source": "embedding"
+  },
+  "groenland": {
+   "subject": "Earth",
+   "score": 0.784,
+   "source": "embedding"
+  },
+  "guerre": {
+   "subject": "Wars",
+   "score": 0.934,
+   "source": "embedding"
+  },
+  "guerre froide": {
+   "subject": "Cold War",
+   "score": 0.991,
+   "source": "embedding"
+  },
+  "géopolitique": {
+   "subject": "Geopolitics",
+   "score": 0.965,
+   "source": "embedding"
+  },
+  "halloween": {
+   "subject": "Halloween",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "harcèlement": {
+   "subject": "Sexual harassment",
+   "score": 0.886,
+   "source": "embedding"
+  },
+  "heroic fantasy": {
+   "subject": "Fantasy - Epic",
+   "score": 0.827,
+   "source": "embedding"
+  },
+  "histoire": {
+   "subject": "History",
+   "score": 0.958,
+   "source": "embedding"
+  },
+  "histoire générale": {
+   "subject": "HISTORY / General",
+   "score": 0.928,
+   "source": "embedding"
+  },
+  "histoire vraie": {
+   "subject": "Story",
+   "score": 0.808,
+   "source": "embedding"
+  },
+  "historique": {
+   "subject": "Historical",
+   "score": 0.985,
+   "source": "embedding"
+  },
+  "hiver": {
+   "subject": "Snow",
+   "score": 0.878,
+   "source": "embedding"
+  },
+  "hollywood": {
+   "subject": "Celebrities",
+   "score": 0.713,
+   "source": "embedding"
+  },
+  "homosexualité": {
+   "subject": "Homosexuality",
+   "score": 0.994,
+   "source": "embedding"
+  },
+  "homosexualité féminine": {
+   "subject": "Female Homosexuality",
+   "score": 0.991,
+   "source": "embedding"
+  },
+  "hopepunk": {
+   "subject": "Hope",
+   "score": 0.894,
+   "source": "embedding"
+  },
+  "horreur": {
+   "subject": "Cruelty",
+   "score": 0.788,
+   "source": "embedding"
+  },
+  "huis-clos": {
+   "subject": "Houses",
+   "score": 0.745,
+   "source": "embedding"
+  },
+  "humour": {
+   "subject": "Humorous",
+   "score": 0.932,
+   "source": "embedding"
+  },
+  "humour noir": {
+   "subject": "Black humor",
+   "score": 0.976,
+   "source": "embedding"
+  },
+  "héritage": {
+   "subject": "Relics",
+   "score": 0.897,
+   "source": "embedding"
+  },
+  "héroïne": {
+   "subject": "Heroes",
+   "score": 0.914,
+   "source": "embedding"
+  },
+  "hésitation": {
+   "subject": "Prose",
+   "score": 0.703,
+   "source": "embedding"
+  },
+  "hôpital psychiatrique": {
+   "subject": "Psychiatric hospitals",
+   "score": 0.95,
+   "source": "embedding"
+  },
+  "hôtel": {
+   "subject": "Hotels and motels",
+   "score": 0.875,
+   "source": "embedding"
+  },
+  "idaho": {
+   "subject": "drow",
+   "score": 0.832,
+   "source": "embedding"
+  },
+  "identité": {
+   "subject": "Identity",
+   "score": 0.984,
+   "source": "embedding"
+  },
+  "idéalisme": {
+   "subject": "Ideology",
+   "score": 0.934,
+   "source": "embedding"
+  },
+  "illusionniste": {
+   "subject": "Imagination",
+   "score": 0.775,
+   "source": "embedding"
+  },
+  "illusions": {
+   "subject": "Imagination",
+   "score": 0.763,
+   "source": "embedding"
+  },
+  "imaginaire": {
+   "subject": "Imagination",
+   "score": 0.914,
+   "source": "embedding"
+  },
+  "imaginaire francophone": {
+   "subject": "French language",
+   "score": 0.822,
+   "source": "embedding"
+  },
+  "imaginaires": {
+   "subject": "Imagination",
+   "score": 0.85,
+   "source": "embedding"
+  },
+  "immigration": {
+   "subject": "Immigrants",
+   "score": 0.915,
+   "source": "embedding"
+  },
+  "immortalité": {
+   "subject": "Immortality",
+   "score": 0.992,
+   "source": "embedding"
+  },
+  "inceste": {
+   "subject": "Incest",
+   "score": 0.936,
+   "source": "embedding"
+  },
+  "indiens": {
+   "subject": "Indians",
+   "score": 0.976,
+   "source": "embedding"
+  },
+  "indépendance": {
+   "subject": "Freedom",
+   "score": 0.747,
+   "source": "embedding"
+  },
+  "infanticide": {
+   "subject": "Child",
+   "score": 0.657,
+   "source": "embedding"
+  },
+  "information": {
+   "subject": "Research",
+   "score": 0.811,
+   "source": "embedding"
+  },
+  "initiatique": {
+   "subject": "Internats",
+   "score": 0.769,
+   "source": "embedding"
+  },
+  "innocence": {
+   "subject": "Guilt",
+   "score": 0.74,
+   "source": "embedding"
+  },
+  "inquisition": {
+   "subject": "Spanish Inquisition",
+   "score": 0.861,
+   "source": "embedding"
+  },
+  "intelligence artificielle": {
+   "subject": "Artificial intelligence",
+   "score": 0.979,
+   "source": "embedding"
+  },
+  "internet": {
+   "subject": "Internet industry",
+   "score": 0.836,
+   "source": "embedding"
+  },
+  "intrusion": {
+   "subject": "Hacking",
+   "score": 0.71,
+   "source": "embedding"
+  },
+  "intégration": {
+   "subject": "School integration",
+   "score": 0.666,
+   "source": "embedding"
+  },
+  "investigation": {
+   "subject": "Investigation",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "irak": {
+   "subject": "Iraq war, 2003-2011, personal narratives",
+   "score": 0.74,
+   "source": "embedding"
+  },
+  "irlandais": {
+   "subject": "Irish",
+   "score": 0.985,
+   "source": "embedding"
+  },
+  "irlande": {
+   "subject": "Irish",
+   "score": 0.989,
+   "source": "embedding"
+  },
+  "islandais": {
+   "subject": "Iceland, fiction",
+   "score": 0.799,
+   "source": "embedding"
+  },
+  "italie": {
+   "subject": "Italy",
+   "score": 0.979,
+   "source": "embedding"
+  },
+  "italien": {
+   "subject": "Italy",
+   "score": 0.974,
+   "source": "embedding"
+  },
+  "jack l' éventreur": {
+   "subject": "Jack, the ripper, fiction",
+   "score": 0.765,
+   "source": "embedding"
+  },
+  "jalousie": {
+   "subject": "Homosexuality",
+   "score": 0.812,
+   "source": "embedding"
+  },
+  "japon": {
+   "subject": "Japanese",
+   "score": 0.98,
+   "source": "embedding"
+  },
+  "jet-set": {
+   "subject": "Airplanes",
+   "score": 0.794,
+   "source": "embedding"
+  },
+  "jeune adulte": {
+   "subject": "Young Adult",
+   "score": 0.974,
+   "source": "embedding"
+  },
+  "jeunesse": {
+   "subject": "Youth",
+   "score": 0.982,
+   "source": "embedding"
+  },
+  "jeux de piste": {
+   "subject": "Games",
+   "score": 0.802,
+   "source": "embedding"
+  },
+  "jeux de société et de cartes": {
+   "subject": "Card games",
+   "score": 0.898,
+   "source": "embedding"
+  },
+  "journalisme": {
+   "subject": "Journalists",
+   "score": 0.898,
+   "source": "embedding"
+  },
+  "journaliste": {
+   "subject": "Journalists",
+   "score": 0.963,
+   "source": "embedding"
+  },
+  "joyaux": {
+   "subject": "Jewelry",
+   "score": 0.839,
+   "source": "embedding"
+  },
+  "judiciaire": {
+   "subject": "Courts",
+   "score": 0.93,
+   "source": "embedding"
+  },
+  "justice": {
+   "subject": "Courts",
+   "score": 0.76,
+   "source": "embedding"
+  },
+  "lakotas": {
+   "subject": "Starvation",
+   "score": 0.922,
+   "source": "embedding"
+  },
+  "lanternes": {
+   "subject": "Lizards",
+   "score": 0.813,
+   "source": "embedding"
+  },
+  "laon": {
+   "subject": "Vietnamese",
+   "score": 0.749,
+   "source": "embedding"
+  },
+  "laponie": {
+   "subject": "broughams",
+   "score": 0.651,
+   "source": "embedding"
+  },
+  "le monde": {
+   "subject": "World",
+   "score": 0.956,
+   "source": "embedding"
+  },
+  "lgbtqia+": {
+   "subject": "LGBTQIA",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "liberté": {
+   "subject": "Freedom",
+   "score": 0.982,
+   "source": "embedding"
+  },
+  "lisbonne": {
+   "subject": "Selkies",
+   "score": 0.792,
+   "source": "embedding"
+  },
+  "littérature": {
+   "subject": "Literature",
+   "score": 0.95,
+   "source": "embedding"
+  },
+  "littérature allemande": {
+   "subject": "German literature",
+   "score": 0.989,
+   "source": "embedding"
+  },
+  "littérature américaine": {
+   "subject": "American literature",
+   "score": 0.986,
+   "source": "embedding"
+  },
+  "littérature anglaise": {
+   "subject": "English literature",
+   "score": 0.986,
+   "source": "embedding"
+  },
+  "littérature anglophone": {
+   "subject": "English literature",
+   "score": 0.973,
+   "source": "embedding"
+  },
+  "littérature asiatique": {
+   "subject": "Asian Literature",
+   "score": 0.978,
+   "source": "embedding"
+  },
+  "littérature australienne": {
+   "subject": "Australian fiction",
+   "score": 0.936,
+   "source": "embedding"
+  },
+  "littérature belge": {
+   "subject": "Belgians",
+   "score": 0.851,
+   "source": "embedding"
+  },
+  "littérature britannique": {
+   "subject": "British Literature",
+   "score": 0.939,
+   "source": "embedding"
+  },
+  "littérature canadienne": {
+   "subject": "Canadian literature",
+   "score": 0.983,
+   "source": "embedding"
+  },
+  "littérature chinoise": {
+   "subject": "Chinese literature",
+   "score": 0.99,
+   "source": "embedding"
+  },
+  "littérature contemporaine": {
+   "subject": "Modern Literature",
+   "score": 0.96,
+   "source": "embedding"
+  },
+  "littérature finlandaise": {
+   "subject": "Finnish fiction",
+   "score": 0.93,
+   "source": "embedding"
+  },
+  "littérature francophone": {
+   "subject": "French literature",
+   "score": 0.973,
+   "source": "embedding"
+  },
+  "littérature française": {
+   "subject": "French literature",
+   "score": 0.943,
+   "source": "embedding"
+  },
+  "littérature galloise": {
+   "subject": "Lizards",
+   "score": 0.691,
+   "source": "embedding"
+  },
+  "littérature générale": {
+   "subject": "Prose literature",
+   "score": 0.884,
+   "source": "embedding"
+  },
+  "littérature irlandaise": {
+   "subject": "Irish literature",
+   "score": 0.989,
+   "source": "embedding"
+  },
+  "littérature islandaise": {
+   "subject": "Iceland, fiction",
+   "score": 0.871,
+   "source": "embedding"
+  },
+  "littérature italienne": {
+   "subject": "Authors, italian",
+   "score": 0.914,
+   "source": "embedding"
+  },
+  "littérature japonaise": {
+   "subject": "Japanese literature",
+   "score": 0.992,
+   "source": "embedding"
+  },
+  "littérature jeunesse": {
+   "subject": "Juvenile literature",
+   "score": 0.939,
+   "source": "embedding"
+  },
+  "littérature jordanienne": {
+   "subject": "Arabic literature",
+   "score": 0.756,
+   "source": "embedding"
+  },
+  "littérature nordique": {
+   "subject": "Prose literature",
+   "score": 0.751,
+   "source": "embedding"
+  },
+  "littérature norvégienne": {
+   "subject": "Norwegian fiction",
+   "score": 0.911,
+   "source": "embedding"
+  },
+  "littérature polonaise": {
+   "subject": "Polish fiction",
+   "score": 0.899,
+   "source": "embedding"
+  },
+  "littérature pour adolescents": {
+   "subject": "Youths' writings",
+   "score": 0.917,
+   "source": "embedding"
+  },
+  "littérature québécoise": {
+   "subject": "Canadian literature",
+   "score": 0.903,
+   "source": "embedding"
+  },
+  "littérature régionale": {
+   "subject": "Regional Studies",
+   "score": 0.894,
+   "source": "embedding"
+  },
+  "littérature scandinave": {
+   "subject": "Swedish fiction",
+   "score": 0.886,
+   "source": "embedding"
+  },
+  "littérature suedoise": {
+   "subject": "Swedish fiction",
+   "score": 0.911,
+   "source": "embedding"
+  },
+  "littérature suisse": {
+   "subject": "Switzerland, fiction",
+   "score": 0.878,
+   "source": "embedding"
+  },
+  "littérature suédoise": {
+   "subject": "Swedish fiction",
+   "score": 0.924,
+   "source": "embedding"
+  },
+  "littérature étrangère": {
+   "subject": "World literature",
+   "score": 0.849,
+   "source": "embedding"
+  },
+  "littératures de l'imaginaire": {
+   "subject": "Imagination",
+   "score": 0.882,
+   "source": "embedding"
+  },
+  "livres": {
+   "subject": "Literature",
+   "score": 0.88,
+   "source": "embedding"
+  },
+  "londres": {
+   "subject": "Embezzlement",
+   "score": 0.844,
+   "source": "embedding"
+  },
+  "loufoque": {
+   "subject": "Heirlooms",
+   "score": 0.819,
+   "source": "embedding"
+  },
+  "lutte des classes": {
+   "subject": "Education",
+   "score": 0.715,
+   "source": "embedding"
+  },
+  "lyon": {
+   "subject": "Nieces",
+   "score": 0.843,
+   "source": "embedding"
+  },
+  "légendes": {
+   "subject": "Parody",
+   "score": 0.906,
+   "source": "embedding"
+  },
+  "machinations": {
+   "subject": "Idioms",
+   "score": 0.753,
+   "source": "embedding"
+  },
+  "madrid": {
+   "subject": "Spain",
+   "score": 0.821,
+   "source": "embedding"
+  },
+  "mafia": {
+   "subject": "Gangs, fiction",
+   "score": 0.708,
+   "source": "embedding"
+  },
+  "magiciens": {
+   "subject": "Magicians",
+   "score": 0.984,
+   "source": "embedding"
+  },
+  "magie": {
+   "subject": "Magical thinking",
+   "score": 0.837,
+   "source": "embedding"
+  },
+  "magie noire": {
+   "subject": "Black power",
+   "score": 0.719,
+   "source": "embedding"
+  },
+  "maison hantée": {
+   "subject": "haunted house",
+   "score": 0.94,
+   "source": "embedding"
+  },
+  "maladie": {
+   "subject": "Disease",
+   "score": 0.857,
+   "source": "embedding"
+  },
+  "maltraitance": {
+   "subject": "Malpractice",
+   "score": 0.776,
+   "source": "embedding"
+  },
+  "malédiction": {
+   "subject": "Curses",
+   "score": 0.822,
+   "source": "embedding"
+  },
+  "maman": {
+   "subject": "Mothers",
+   "score": 0.903,
+   "source": "embedding"
+  },
+  "management": {
+   "subject": "Management",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "manga": {
+   "subject": "Comics & Graphic Novels - Manga",
+   "score": 0.82,
+   "source": "embedding"
+  },
+  "mangas": {
+   "subject": "Comics & Graphic Novels - Manga",
+   "score": 0.825,
+   "source": "embedding"
+  },
+  "manipulation": {
+   "subject": "Manipulative behavior",
+   "score": 0.805,
+   "source": "embedding"
+  },
+  "mannequinat": {
+   "subject": "Heirlooms",
+   "score": 0.805,
+   "source": "embedding"
+  },
+  "maquis": {
+   "subject": "Maura Isles (Fictitious character)",
+   "score": 0.677,
+   "source": "embedding"
+  },
+  "mariage arrangé": {
+   "subject": "Arranged marriage",
+   "score": 0.956,
+   "source": "embedding"
+  },
+  "maritime": {
+   "subject": "Ships",
+   "score": 0.912,
+   "source": "embedding"
+  },
+  "masculinisme": {
+   "subject": "Masculinity",
+   "score": 0.891,
+   "source": "embedding"
+  },
+  "maternité": {
+   "subject": "Mothers",
+   "score": 0.882,
+   "source": "embedding"
+  },
+  "matriarchie": {
+   "subject": "Aristocracy (Social class)",
+   "score": 0.666,
+   "source": "embedding"
+  },
+  "mensonges": {
+   "subject": "Mennonites, fiction",
+   "score": 0.78,
+   "source": "embedding"
+  },
+  "mers et océans": {
+   "subject": "Ocean",
+   "score": 0.921,
+   "source": "embedding"
+  },
+  "meurtre": {
+   "subject": "Murder",
+   "score": 0.96,
+   "source": "embedding"
+  },
+  "michel": {
+   "subject": "Nieces",
+   "score": 0.805,
+   "source": "embedding"
+  },
+  "midwest": {
+   "subject": "American West",
+   "score": 0.755,
+   "source": "embedding"
+  },
+  "milan": {
+   "subject": "Nieces",
+   "score": 0.757,
+   "source": "embedding"
+  },
+  "militaire": {
+   "subject": "Military",
+   "score": 0.988,
+   "source": "embedding"
+  },
+  "mode": {
+   "subject": "Prose",
+   "score": 0.551,
+   "source": "embedding"
+  },
+  "momies": {
+   "subject": "Mothers",
+   "score": 0.934,
+   "source": "embedding"
+  },
+  "monde du travail": {
+   "subject": "workplace",
+   "score": 0.806,
+   "source": "embedding"
+  },
+  "monstre": {
+   "subject": "Devil",
+   "score": 0.786,
+   "source": "embedding"
+  },
+  "montagnes": {
+   "subject": "Mountains",
+   "score": 0.975,
+   "source": "embedding"
+  },
+  "mort": {
+   "subject": "Dead",
+   "score": 0.94,
+   "source": "embedding"
+  },
+  "moyen-âge": {
+   "subject": "Middle Ages",
+   "score": 0.923,
+   "source": "embedding"
+  },
+  "musique": {
+   "subject": "Songs",
+   "score": 0.848,
+   "source": "embedding"
+  },
+  "mutilation": {
+   "subject": "Self-mutilation",
+   "score": 0.6,
+   "source": "embedding"
+  },
+  "mysticisme": {
+   "subject": "Mysticism",
+   "score": 0.995,
+   "source": "embedding"
+  },
+  "mystère": {
+   "subject": "Mystery",
+   "score": 0.99,
+   "source": "embedding"
+  },
+  "mythes": {
+   "subject": "Myths",
+   "score": 0.988,
+   "source": "embedding"
+  },
+  "mythologie": {
+   "subject": "Mythology",
+   "score": 0.981,
+   "source": "embedding"
+  },
+  "mythologie grecque": {
+   "subject": "Greek Mythology",
+   "score": 0.994,
+   "source": "embedding"
+  },
+  "mère de famille": {
+   "subject": "Mothers",
+   "score": 0.902,
+   "source": "embedding"
+  },
+  "médias": {
+   "subject": "Media Studies",
+   "score": 0.931,
+   "source": "embedding"
+  },
+  "médiéval fantastique": {
+   "subject": "Epic literature",
+   "score": 0.777,
+   "source": "embedding"
+  },
+  "mémoire": {
+   "subject": "Memory",
+   "score": 0.962,
+   "source": "embedding"
+  },
+  "métaphysique": {
+   "subject": "Metaphysics",
+   "score": 0.789,
+   "source": "embedding"
+  },
+  "narcotraficants": {
+   "subject": "Narcotic addicts",
+   "score": 0.788,
+   "source": "embedding"
+  },
+  "natifs américains": {
+   "subject": "Native Americans",
+   "score": 0.921,
+   "source": "embedding"
+  },
+  "nature": {
+   "subject": "Nature study",
+   "score": 0.896,
+   "source": "embedding"
+  },
+  "navigation": {
+   "subject": "Journeys",
+   "score": 0.654,
+   "source": "embedding"
+  },
+  "nazisme": {
+   "subject": "Holocaust",
+   "score": 0.831,
+   "source": "embedding"
+  },
+  "nikita": {
+   "subject": "Nieces",
+   "score": 0.748,
+   "source": "embedding"
+  },
+  "ninjas": {
+   "subject": "Martial artists",
+   "score": 0.714,
+   "source": "embedding"
+  },
+  "noir": {
+   "subject": "Dark",
+   "score": 0.78,
+   "source": "embedding"
+  },
+  "nomades": {
+   "subject": "Adventurers",
+   "score": 0.612,
+   "source": "embedding"
+  },
+  "nordic noir": {
+   "subject": "Blacks",
+   "score": 0.767,
+   "source": "embedding"
+  },
+  "norvège": {
+   "subject": "Nieces",
+   "score": 0.856,
+   "source": "embedding"
+  },
+  "norvégien": {
+   "subject": "Norwegian drama",
+   "score": 0.803,
+   "source": "embedding"
+  },
+  "nostalgie": {
+   "subject": "Reminiscing",
+   "score": 0.814,
+   "source": "embedding"
+  },
+  "nouvelle-orléans": {
+   "subject": "Louisiana",
+   "score": 0.7,
+   "source": "embedding"
+  },
+  "nouvelles": {
+   "subject": "Parody",
+   "score": 0.794,
+   "source": "embedding"
+  },
+  "nouvelles fantastiques": {
+   "subject": "Epic",
+   "score": 0.711,
+   "source": "embedding"
+  },
+  "novellas": {
+   "subject": "Literature",
+   "score": 0.886,
+   "source": "embedding"
+  },
+  "novembre": {
+   "subject": "holiday",
+   "score": 0.733,
+   "source": "embedding"
+  },
+  "noël": {
+   "subject": "Nieces",
+   "score": 0.913,
+   "source": "embedding"
+  },
+  "obsessions": {
+   "subject": "Imagination",
+   "score": 0.739,
+   "source": "embedding"
+  },
+  "occulte": {
+   "subject": "Occultists",
+   "score": 0.897,
+   "source": "embedding"
+  },
+  "one-shot": {
+   "subject": "Captive",
+   "score": 0.589,
+   "source": "embedding"
+  },
+  "onirique": {
+   "subject": "Nieces",
+   "score": 0.658,
+   "source": "embedding"
+  },
+  "originaux": {
+   "subject": "Heirlooms",
+   "score": 0.838,
+   "source": "embedding"
+  },
+  "paganisme": {
+   "subject": "Celtic Mythology",
+   "score": 0.775,
+   "source": "embedding"
+  },
+  "page turner": {
+   "subject": "Readers",
+   "score": 0.564,
+   "source": "embedding"
+  },
+  "paranormal": {
+   "subject": "Supernatural",
+   "score": 0.88,
+   "source": "embedding"
+  },
+  "paranoïa": {
+   "subject": "Fear",
+   "score": 0.751,
+   "source": "embedding"
+  },
+  "parodie": {
+   "subject": "Humor, form, parodies",
+   "score": 0.782,
+   "source": "embedding"
+  },
+  "passé": {
+   "subject": "Internats",
+   "score": 0.856,
+   "source": "embedding"
+  },
+  "paternité": {
+   "subject": "Paternity",
+   "score": 0.929,
+   "source": "embedding"
+  },
+  "pauvreté": {
+   "subject": "Poverty",
+   "score": 0.996,
+   "source": "embedding"
+  },
+  "peinture": {
+   "subject": "Painting",
+   "score": 0.985,
+   "source": "embedding"
+  },
+  "pendergast": {
+   "subject": "Selkies",
+   "score": 0.697,
+   "source": "embedding"
+  },
+  "peur": {
+   "subject": "Fear",
+   "score": 0.992,
+   "source": "embedding"
+  },
+  "philosophie": {
+   "subject": "Philosophy",
+   "score": 0.907,
+   "source": "embedding"
+  },
+  "philosophie anglaise": {
+   "subject": "Philosophy, british",
+   "score": 0.924,
+   "source": "embedding"
+  },
+  "physique": {
+   "subject": "Physics",
+   "score": 0.814,
+   "source": "embedding"
+  },
+  "pierres précieuses": {
+   "subject": "Precious stones",
+   "score": 0.975,
+   "source": "embedding"
+  },
+  "planet opera": {
+   "subject": "Space Opera",
+   "score": 0.798,
+   "source": "embedding"
+  },
+  "polar breton": {
+   "subject": "Antarctica",
+   "score": 0.639,
+   "source": "embedding"
+  },
+  "polar canadien": {
+   "subject": "Canadians",
+   "score": 0.651,
+   "source": "embedding"
+  },
+  "polar ethnologique": {
+   "subject": "Polarization (Social sciences)",
+   "score": 0.724,
+   "source": "embedding"
+  },
+  "polar finlandais": {
+   "subject": "Finland, fiction",
+   "score": 0.674,
+   "source": "embedding"
+  },
+  "polar judiciaire": {
+   "subject": "Courts",
+   "score": 0.709,
+   "source": "embedding"
+  },
+  "polar noir": {
+   "subject": "Polar bear",
+   "score": 0.627,
+   "source": "embedding"
+  },
+  "polar norvégien": {
+   "subject": "Poland",
+   "score": 0.65,
+   "source": "embedding"
+  },
+  "polar politique": {
+   "subject": "Political",
+   "score": 0.754,
+   "source": "embedding"
+  },
+  "polar social": {
+   "subject": "Polarization (Social sciences)",
+   "score": 0.795,
+   "source": "embedding"
+  },
+  "polars": {
+   "subject": "Polar bear",
+   "score": 0.71,
+   "source": "embedding"
+  },
+  "police": {
+   "subject": "Police",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "police scientifique": {
+   "subject": "Forensic scientists",
+   "score": 0.805,
+   "source": "embedding"
+  },
+  "policier": {
+   "subject": "Police",
+   "score": 0.934,
+   "source": "embedding"
+  },
+  "policier américain": {
+   "subject": "Police, united states",
+   "score": 0.864,
+   "source": "embedding"
+  },
+  "policier français": {
+   "subject": "Police",
+   "score": 0.746,
+   "source": "embedding"
+  },
+  "policier historique": {
+   "subject": "Officers",
+   "score": 0.805,
+   "source": "embedding"
+  },
+  "policier islandais": {
+   "subject": "Officers",
+   "score": 0.657,
+   "source": "embedding"
+  },
+  "policier italien": {
+   "subject": "police officer",
+   "score": 0.72,
+   "source": "embedding"
+  },
+  "policier nordique": {
+   "subject": "Officers",
+   "score": 0.838,
+   "source": "embedding"
+  },
+  "policier scandinave": {
+   "subject": "Officers",
+   "score": 0.782,
+   "source": "embedding"
+  },
+  "policier suédois": {
+   "subject": "police officer",
+   "score": 0.671,
+   "source": "embedding"
+  },
+  "politique": {
+   "subject": "Political",
+   "score": 0.983,
+   "source": "embedding"
+  },
+  "pologne": {
+   "subject": "Heirlooms",
+   "score": 0.824,
+   "source": "embedding"
+  },
+  "portugal": {
+   "subject": "Portuguese language materials",
+   "score": 0.803,
+   "source": "embedding"
+  },
+  "post-apocalyptique": {
+   "subject": "Environmentalism",
+   "score": 0.741,
+   "source": "embedding"
+  },
+  "pouvoir": {
+   "subject": "power",
+   "score": 0.865,
+   "source": "embedding"
+  },
+  "pratique": {
+   "subject": "Internats",
+   "score": 0.798,
+   "source": "embedding"
+  },
+  "premier roman": {
+   "subject": "Novels",
+   "score": 0.842,
+   "source": "embedding"
+  },
+  "première guerre mondiale": {
+   "subject": "World War I",
+   "score": 0.939,
+   "source": "embedding"
+  },
+  "procès": {
+   "subject": "Trials, litigation",
+   "score": 0.876,
+   "source": "embedding"
+  },
+  "procédural": {
+   "subject": "Internats",
+   "score": 0.891,
+   "source": "embedding"
+  },
+  "protection": {
+   "subject": "Protection",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "province": {
+   "subject": "Country",
+   "score": 0.65,
+   "source": "embedding"
+  },
+  "proxénétisme": {
+   "subject": "Feudalism",
+   "score": 0.71,
+   "source": "embedding"
+  },
+  "psychiatrie": {
+   "subject": "Psychiatry",
+   "score": 0.986,
+   "source": "embedding"
+  },
+  "psychologie": {
+   "subject": "Psychology",
+   "score": 0.993,
+   "source": "embedding"
+  },
+  "psychopathe": {
+   "subject": "Psychopaths",
+   "score": 0.977,
+   "source": "embedding"
+  },
+  "pédophilie": {
+   "subject": "Heirlooms",
+   "score": 0.611,
+   "source": "embedding"
+  },
+  "queer": {
+   "subject": "LGBT",
+   "score": 0.901,
+   "source": "embedding"
+  },
+  "questionnement": {
+   "subject": "Idioms",
+   "score": 0.836,
+   "source": "embedding"
+  },
+  "québec": {
+   "subject": "Canadians",
+   "score": 0.837,
+   "source": "embedding"
+  },
+  "quête": {
+   "subject": "Earth",
+   "score": 0.838,
+   "source": "embedding"
+  },
+  "racisme": {
+   "subject": "Racism",
+   "score": 0.999,
+   "source": "embedding"
+  },
+  "rechauffement climatique": {
+   "subject": "Climate",
+   "score": 0.846,
+   "source": "embedding"
+  },
+  "recommandation": {
+   "subject": "Mentoring",
+   "score": 0.689,
+   "source": "embedding"
+  },
+  "recueil": {
+   "subject": "Heirlooms",
+   "score": 0.82,
+   "source": "embedding"
+  },
+  "reines": {
+   "subject": "Countesses",
+   "score": 0.783,
+   "source": "embedding"
+  },
+  "relation": {
+   "subject": "relationships",
+   "score": 0.832,
+   "source": "embedding"
+  },
+  "religion": {
+   "subject": "Religious",
+   "score": 0.959,
+   "source": "embedding"
+  },
+  "rentrée littéraire": {
+   "subject": "Literary",
+   "score": 0.883,
+   "source": "embedding"
+  },
+  "retelling": {
+   "subject": "Correspondence, reminiscences",
+   "score": 0.753,
+   "source": "embedding"
+  },
+  "rituel": {
+   "subject": "Rites and ceremonies",
+   "score": 0.878,
+   "source": "embedding"
+  },
+  "road movie": {
+   "subject": "Roads",
+   "score": 0.699,
+   "source": "embedding"
+  },
+  "road trip": {
+   "subject": "Travel",
+   "score": 0.811,
+   "source": "embedding"
+  },
+  "rock and roll": {
+   "subject": "Rock music",
+   "score": 0.832,
+   "source": "embedding"
+  },
+  "roman": {
+   "subject": "Prose literature",
+   "score": 0.791,
+   "source": "embedding"
+  },
+  "roman adulte": {
+   "subject": "Adult",
+   "score": 0.763,
+   "source": "embedding"
+  },
+  "roman choral": {
+   "subject": "Ballads",
+   "score": 0.741,
+   "source": "embedding"
+  },
+  "roman d'amour": {
+   "subject": "Love, fiction",
+   "score": 0.829,
+   "source": "embedding"
+  },
+  "roman d'espionnage": {
+   "subject": "Fiction, espionage",
+   "score": 0.882,
+   "source": "embedding"
+  },
+  "roman fantastique": {
+   "subject": "Epic literature",
+   "score": 0.837,
+   "source": "embedding"
+  },
+  "roman graphique": {
+   "subject": "Graphic Novel",
+   "score": 0.797,
+   "source": "embedding"
+  },
+  "roman historique": {
+   "subject": "Classic Literature",
+   "score": 0.902,
+   "source": "embedding"
+  },
+  "roman noir": {
+   "subject": "African American fiction",
+   "score": 0.773,
+   "source": "embedding"
+  },
+  "roman policier ado": {
+   "subject": "Officers",
+   "score": 0.82,
+   "source": "embedding"
+  },
+  "roman policier belge": {
+   "subject": "Belgians",
+   "score": 0.736,
+   "source": "embedding"
+  },
+  "roman policier à énigme": {
+   "subject": "Police, fiction",
+   "score": 0.849,
+   "source": "embedding"
+  },
+  "roman social": {
+   "subject": "Socialization",
+   "score": 0.825,
+   "source": "embedding"
+  },
+  "roman écologique": {
+   "subject": "Environmentalism",
+   "score": 0.773,
+   "source": "embedding"
+  },
+  "roman épistolaire": {
+   "subject": "Roman Mythology",
+   "score": 0.863,
+   "source": "embedding"
+  },
+  "roman étranger": {
+   "subject": "World literature",
+   "score": 0.781,
+   "source": "embedding"
+  },
+  "romance": {
+   "subject": "Romance literature",
+   "score": 0.936,
+   "source": "embedding"
+  },
+  "romance contemporaine": {
+   "subject": "Contemporary Romance",
+   "score": 0.984,
+   "source": "embedding"
+  },
+  "romance fantasy": {
+   "subject": "Fantasy Romance",
+   "score": 0.969,
+   "source": "embedding"
+  },
+  "romance historique": {
+   "subject": "Historical Romance",
+   "score": 0.989,
+   "source": "embedding"
+  },
+  "romance mm": {
+   "subject": "Category Romance",
+   "score": 0.889,
+   "source": "embedding"
+  },
+  "romans policiers et polars": {
+   "subject": "Police, fiction",
+   "score": 0.678,
+   "source": "embedding"
+  },
+  "romantasy": {
+   "subject": "Romantasy",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "royaume-uni": {
+   "subject": "French",
+   "score": 0.65,
+   "source": "embedding"
+  },
+  "royauté": {
+   "subject": "Heirlooms",
+   "score": 0.885,
+   "source": "embedding"
+  },
+  "russie": {
+   "subject": "Russian",
+   "score": 0.937,
+   "source": "embedding"
+  },
+  "rébellion": {
+   "subject": "Revolutionaries",
+   "score": 0.798,
+   "source": "embedding"
+  },
+  "récits": {
+   "subject": "Story",
+   "score": 0.908,
+   "source": "embedding"
+  },
+  "rédemption": {
+   "subject": "redemption",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "réel": {
+   "subject": "Reality",
+   "score": 0.829,
+   "source": "embedding"
+  },
+  "réfugiés": {
+   "subject": "Refugees",
+   "score": 0.994,
+   "source": "embedding"
+  },
+  "régicide": {
+   "subject": "Heirlooms",
+   "score": 0.822,
+   "source": "embedding"
+  },
+  "réincarnation": {
+   "subject": "Reincarnation",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "réseaux sociaux": {
+   "subject": "Social networks",
+   "score": 0.956,
+   "source": "embedding"
+  },
+  "révélations": {
+   "subject": "Teachings",
+   "score": 0.732,
+   "source": "embedding"
+  },
+  "réécriture": {
+   "subject": "Writing",
+   "score": 0.68,
+   "source": "embedding"
+  },
+  "rêves": {
+   "subject": "Dreams",
+   "score": 0.987,
+   "source": "embedding"
+  },
+  "saga": {
+   "subject": "Story",
+   "score": 0.792,
+   "source": "embedding"
+  },
+  "saint-malo": {
+   "subject": "St. Marks",
+   "score": 0.673,
+   "source": "embedding"
+  },
+  "sang": {
+   "subject": "Singing",
+   "score": 0.868,
+   "source": "embedding"
+  },
+  "santé": {
+   "subject": "Health",
+   "score": 0.984,
+   "source": "embedding"
+  },
+  "scandinavie": {
+   "subject": "Poland",
+   "score": 0.743,
+   "source": "embedding"
+  },
+  "science": {
+   "subject": "Science",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "science fiction": {
+   "subject": "Science fiction",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "science fiction optimiste": {
+   "subject": "Science fiction",
+   "score": 0.772,
+   "source": "embedding"
+  },
+  "science-fiction": {
+   "subject": "Science fiction",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "science-fiction anticipation": {
+   "subject": "Science Fiction & Fantasy",
+   "score": 0.813,
+   "source": "embedding"
+  },
+  "science-fiction et fantasy": {
+   "subject": "Science Fiction And Fantasy",
+   "score": 0.982,
+   "source": "embedding"
+  },
+  "science-fiction française": {
+   "subject": "French Science fiction",
+   "score": 0.93,
+   "source": "embedding"
+  },
+  "scotland yard": {
+   "subject": "Scotland Yard",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "seconde guerre mondiale": {
+   "subject": "World War II",
+   "score": 0.976,
+   "source": "embedding"
+  },
+  "secrets": {
+   "subject": "Secrets",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "secrets de famille": {
+   "subject": "Family secrets",
+   "score": 0.99,
+   "source": "embedding"
+  },
+  "seinen": {
+   "subject": "Heirlooms",
+   "score": 0.861,
+   "source": "embedding"
+  },
+  "sens de la vie": {
+   "subject": "Life",
+   "score": 0.817,
+   "source": "embedding"
+  },
+  "serie": {
+   "subject": "Parody",
+   "score": 0.849,
+   "source": "embedding"
+  },
+  "sfff": {
+   "subject": "California",
+   "score": 0.555,
+   "source": "embedding"
+  },
+  "shojo": {
+   "subject": "Selkies",
+   "score": 0.713,
+   "source": "embedding"
+  },
+  "shonen": {
+   "subject": "Selkies",
+   "score": 0.914,
+   "source": "embedding"
+  },
+  "show business": {
+   "subject": "Parody",
+   "score": 0.653,
+   "source": "embedding"
+  },
+  "sirènes": {
+   "subject": "Whistle blowing",
+   "score": 0.585,
+   "source": "embedding"
+  },
+  "smiley": {
+   "subject": "Happiness",
+   "score": 0.775,
+   "source": "embedding"
+  },
+  "sniper": {
+   "subject": "Snipers",
+   "score": 0.948,
+   "source": "embedding"
+  },
+  "sociologie": {
+   "subject": "Sociology",
+   "score": 0.986,
+   "source": "embedding"
+  },
+  "société": {
+   "subject": "Society",
+   "score": 0.925,
+   "source": "embedding"
+  },
+  "solarpunk": {
+   "subject": "Solar system",
+   "score": 0.84,
+   "source": "embedding"
+  },
+  "solitude": {
+   "subject": "Loneliness",
+   "score": 0.819,
+   "source": "embedding"
+  },
+  "sorcellerie": {
+   "subject": "Demonology",
+   "score": 0.874,
+   "source": "embedding"
+  },
+  "sorcières": {
+   "subject": "Mystics",
+   "score": 0.88,
+   "source": "embedding"
+  },
+  "souffrance": {
+   "subject": "Suffering",
+   "score": 0.867,
+   "source": "embedding"
+  },
+  "souhaits": {
+   "subject": "Wishes",
+   "score": 0.929,
+   "source": "embedding"
+  },
+  "soupçons": {
+   "subject": "Speculation",
+   "score": 0.891,
+   "source": "embedding"
+  },
+  "space opera": {
+   "subject": "Space Opera",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "sport et loisirs": {
+   "subject": "Sports & Recreations",
+   "score": 0.94,
+   "source": "embedding"
+  },
+  "stations spatiales": {
+   "subject": "Space travelers",
+   "score": 0.732,
+   "source": "embedding"
+  },
+  "steampunk": {
+   "subject": "Fiction, science fiction, steampunk",
+   "score": 0.649,
+   "source": "embedding"
+  },
+  "suicide": {
+   "subject": "Suicidal behavior",
+   "score": 0.915,
+   "source": "embedding"
+  },
+  "super-héros": {
+   "subject": "Superheroes",
+   "score": 0.929,
+   "source": "embedding"
+  },
+  "surnaturel": {
+   "subject": "Supernatural",
+   "score": 0.795,
+   "source": "embedding"
+  },
+  "surveillance": {
+   "subject": "Electronic surveillance",
+   "score": 0.865,
+   "source": "embedding"
+  },
+  "survie": {
+   "subject": "Survival",
+   "score": 0.982,
+   "source": "embedding"
+  },
+  "suspense": {
+   "subject": "mystery and suspense",
+   "score": 0.887,
+   "source": "embedding"
+  },
+  "suspense psychologique": {
+   "subject": "Psychological Thriller",
+   "score": 0.859,
+   "source": "embedding"
+  },
+  "suspense sentimental": {
+   "subject": "Emotions, fiction",
+   "score": 0.771,
+   "source": "embedding"
+  },
+  "suède": {
+   "subject": "Selkies",
+   "score": 0.885,
+   "source": "embedding"
+  },
+  "sécurité": {
+   "subject": "Security",
+   "score": 0.957,
+   "source": "embedding"
+  },
+  "séquéstration": {
+   "subject": "Internats",
+   "score": 0.781,
+   "source": "embedding"
+  },
+  "série noire": {
+   "subject": "Black Death",
+   "score": 0.73,
+   "source": "embedding"
+  },
+  "série tv": {
+   "subject": "Television programs",
+   "score": 0.883,
+   "source": "embedding"
+  },
+  "tapisserie": {
+   "subject": "Aesthetics",
+   "score": 0.656,
+   "source": "embedding"
+  },
+  "techno-thriller": {
+   "subject": "techno-thriller",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "tempête": {
+   "subject": "drow",
+   "score": 0.76,
+   "source": "embedding"
+  },
+  "terreur": {
+   "subject": "Terrorism, prevention",
+   "score": 0.818,
+   "source": "embedding"
+  },
+  "thriller": {
+   "subject": "Thrillers",
+   "score": 0.972,
+   "source": "embedding"
+  },
+  "thriller domestique": {
+   "subject": "Domestic fiction",
+   "score": 0.854,
+   "source": "embedding"
+  },
+  "thriller francais": {
+   "subject": "French drama",
+   "score": 0.868,
+   "source": "embedding"
+  },
+  "thriller géo-politique": {
+   "subject": "FICTION / Thrillers / Political",
+   "score": 0.819,
+   "source": "embedding"
+  },
+  "thriller historique": {
+   "subject": "Historical drama",
+   "score": 0.887,
+   "source": "embedding"
+  },
+  "thriller juridique": {
+   "subject": "Legal fiction",
+   "score": 0.911,
+   "source": "embedding"
+  },
+  "thriller psychologique": {
+   "subject": "Psychological thrillers",
+   "score": 0.948,
+   "source": "embedding"
+  },
+  "thriller ésotérique": {
+   "subject": "Thrillers",
+   "score": 0.94,
+   "source": "embedding"
+  },
+  "théâtre": {
+   "subject": "Theatre",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "totem": {
+   "subject": "Heirlooms",
+   "score": 0.776,
+   "source": "embedding"
+  },
+  "tourisme": {
+   "subject": "Travel and tourism",
+   "score": 0.905,
+   "source": "embedding"
+  },
+  "trafic": {
+   "subject": "Roads",
+   "score": 0.742,
+   "source": "embedding"
+  },
+  "trahison": {
+   "subject": "Conspiracies",
+   "score": 0.683,
+   "source": "embedding"
+  },
+  "trains": {
+   "subject": "Railroad trains",
+   "score": 0.959,
+   "source": "embedding"
+  },
+  "tranches de vie": {
+   "subject": "Life",
+   "score": 0.829,
+   "source": "embedding"
+  },
+  "traque": {
+   "subject": "Selkies",
+   "score": 0.813,
+   "source": "embedding"
+  },
+  "traumatisme": {
+   "subject": "Wounds and injuries",
+   "score": 0.765,
+   "source": "embedding"
+  },
+  "travail": {
+   "subject": "Work",
+   "score": 0.989,
+   "source": "embedding"
+  },
+  "triangle amoureux": {
+   "subject": "Love Triangle",
+   "score": 0.969,
+   "source": "embedding"
+  },
+  "true crime story": {
+   "subject": "Crime & mystery",
+   "score": 0.837,
+   "source": "embedding"
+  },
+  "tueur en série": {
+   "subject": "Murder",
+   "score": 0.878,
+   "source": "embedding"
+  },
+  "tueurs": {
+   "subject": "Murderers",
+   "score": 0.886,
+   "source": "embedding"
+  },
+  "téléréalité": {
+   "subject": "Television broadcasting",
+   "score": 0.793,
+   "source": "embedding"
+  },
+  "télévision": {
+   "subject": "Television programs",
+   "score": 0.931,
+   "source": "embedding"
+  },
+  "témoignage": {
+   "subject": "Witnesses",
+   "score": 0.9,
+   "source": "embedding"
+  },
+  "témoins": {
+   "subject": "Witnesses",
+   "score": 0.993,
+   "source": "embedding"
+  },
+  "uchronie": {
+   "subject": "Embezzlement",
+   "score": 0.834,
+   "source": "embedding"
+  },
+  "université": {
+   "subject": "University",
+   "score": 0.982,
+   "source": "embedding"
+  },
+  "urban fantasy": {
+   "subject": "Urban Fantasy",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "vacances": {
+   "subject": "Vacations",
+   "score": 0.933,
+   "source": "embedding"
+  },
+  "vampires": {
+   "subject": "Vampire Warriors",
+   "score": 0.93,
+   "source": "embedding"
+  },
+  "vaudeville": {
+   "subject": "Entertaining",
+   "score": 0.774,
+   "source": "embedding"
+  },
+  "vengeance": {
+   "subject": "Retribution",
+   "score": 0.809,
+   "source": "embedding"
+  },
+  "vert": {
+   "subject": "Earth",
+   "score": 0.814,
+   "source": "embedding"
+  },
+  "vieillesse": {
+   "subject": "Heirlooms",
+   "score": 0.781,
+   "source": "embedding"
+  },
+  "vienne": {
+   "subject": "Heirlooms",
+   "score": 0.779,
+   "source": "embedding"
+  },
+  "vignes": {
+   "subject": "Selkies",
+   "score": 0.843,
+   "source": "embedding"
+  },
+  "village": {
+   "subject": "Peasantry",
+   "score": 0.797,
+   "source": "embedding"
+  },
+  "viol": {
+   "subject": "Prose",
+   "score": 0.817,
+   "source": "embedding"
+  },
+  "violence": {
+   "subject": "Violence against",
+   "score": 0.943,
+   "source": "embedding"
+  },
+  "violence infantile": {
+   "subject": "Youth and violence",
+   "score": 0.864,
+   "source": "embedding"
+  },
+  "violences conjugales": {
+   "subject": "Family violence",
+   "score": 0.806,
+   "source": "embedding"
+  },
+  "violences familiales": {
+   "subject": "Family violence",
+   "score": 0.984,
+   "source": "embedding"
+  },
+  "violences sexuelles": {
+   "subject": "Sexual abuse",
+   "score": 0.857,
+   "source": "embedding"
+  },
+  "violet": {
+   "subject": "Rainbow",
+   "score": 0.689,
+   "source": "embedding"
+  },
+  "viols": {
+   "subject": "Selkies",
+   "score": 0.881,
+   "source": "embedding"
+  },
+  "vosges": {
+   "subject": "Selkies",
+   "score": 0.906,
+   "source": "embedding"
+  },
+  "voyage dans le temps": {
+   "subject": "Time travel",
+   "score": 0.898,
+   "source": "embedding"
+  },
+  "voyages": {
+   "subject": "Voyages and travels",
+   "score": 0.927,
+   "source": "embedding"
+  },
+  "western": {
+   "subject": "Westerns",
+   "score": 0.964,
+   "source": "embedding"
+  },
+  "écologie": {
+   "subject": "Ecology",
+   "score": 0.923,
+   "source": "embedding"
+  },
+  "écran": {
+   "subject": "Computer graphics",
+   "score": 0.701,
+   "source": "embedding"
+  },
+  "écriture": {
+   "subject": "Writing",
+   "score": 0.983,
+   "source": "embedding"
+  },
+  "écrivain": {
+   "subject": "writer",
+   "score": 0.978,
+   "source": "embedding"
+  },
+  "éducation": {
+   "subject": "Education",
+   "score": 1.0,
+   "source": "exact"
+  },
+  "élevage": {
+   "subject": "Earth",
+   "score": 0.87,
+   "source": "embedding"
+  },
+  "énigmes": {
+   "subject": "Idioms",
+   "score": 0.905,
+   "source": "embedding"
+  },
+  "épopée": {
+   "subject": "Idioms",
+   "score": 0.841,
+   "source": "embedding"
+  },
+  "épreuves": {
+   "subject": "Trials",
+   "score": 0.866,
+   "source": "embedding"
+  },
+  "ésotérisme": {
+   "subject": "Feudalism",
+   "score": 0.759,
+   "source": "embedding"
+  },
+  "états-unis": {
+   "subject": "United States",
+   "score": 0.924,
+   "source": "embedding"
+  },
+  "îles": {
+   "subject": "Islands, fiction",
+   "score": 0.835,
+   "source": "embedding"
+  }
+ }
+}
