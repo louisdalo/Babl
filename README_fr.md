@@ -8,10 +8,10 @@
 
 
 <p align="center">
-  <a href="https://github.com/zeon-studio/hugoplate/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/zeon-studio/hugoplate" alt="license">
+  <a href="https://github.com/louisdalo/Babl/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/louisdalo/Babl" alt="license">
   </a>
-  <a href="https://github.com/zeon-studio/hugoplate">
+  <a href="https://github.com/louisdalo/Babl">
     <img src="https://img.shields.io/github/languages/code-size/louisdalo/Babl" alt="code size">
   </a>
 </p>
